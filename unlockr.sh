@@ -7,7 +7,7 @@ if [ "$u" != "root" ]; then
 fi
 
 echo "Backing up original files to ~/backup/"
-mkdir backup
+mkdir ~/backup
 cp /var/sf/lib/perl/5.10.1/SF/SmartAgentManager.pm ~/backup/
 cp /var/sf/lib/perl/5.10.1/SF/License/SmartLicense.pm ~/backup/
 
