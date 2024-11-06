@@ -2,6 +2,8 @@
 
 SSH to device
 
+Still works on 7.6. Smart Lic page is bugged but still works looking at devices.
+
 ```
 > expert
 admin@hostname# sudo su
